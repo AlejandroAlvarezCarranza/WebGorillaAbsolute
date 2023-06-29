@@ -1,0 +1,48 @@
+.navbar-transparent .navbar-nav .nav-item .nav-link:not(.btn){
+    color:black;
+    transition:font-size 1s;
+    font-size: 15px;
+}
+
+.navbar-transparent .navbar-nav .nav-item .nav-link:not(.btn):hover{
+    font-size: 19px;
+    transition: font-size 1s;
+}
+
+.navbar .navbar-nav .nav-item .nav-link:hover{
+    color:black;
+    font-size:15px;
+    transition:font-size 1s;
+}
+.navbar .navbar-nav .nav-item .nav-link{
+    transition:font-size 1s;
+}
+
+.navbar-transparent .navbar-brand{
+    color: black;
+    font-size: 25px;
+    transition:font-size 1s;
+}
+.navbar-transparent .navbar-brand:hover{
+    font-size: 29px!important;
+    transition:font-size 1s;
+}
+
+.navbar .navbar-brand{
+    transition:font-size 1s;
+}
+
+.navbar .navbar-brand:hover{
+    color:black;
+    font-size: 17px;
+    transition: font-size 1s;
+}
+
+.navbar-transparent{
+    background: rgba($color: white, $alpha: 0.3)!important;
+    box-shadow: 0 6px 10px -4px #00000026;
+}
+
+.navbar.navbar-transparent .navbar-toggler .navbar-toggler-bar {
+    background: black;
+}

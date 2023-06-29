@@ -1,0 +1,16 @@
+.redes-sociales{
+    width: 100%;
+    margin: 0;
+    padding: 5px;
+    background-color: rgb(30,30,30);
+}
+
+.redes-sociales img{
+    padding: 5px;
+    width: 50px;
+    transition: .3s ease all;
+}
+
+.redes-sociales img:hover{
+    transform: scale(1.2);
+}
