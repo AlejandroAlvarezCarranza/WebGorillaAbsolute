@@ -1,4 +1,2 @@
-<<<<<<< HEAD
-=======
 
->>>>>>> ad73c33ac7a37d814770adcd0959e0f159267f5e
+preview: https://alejandroalvarezcarranza.github.io/WebGorillaAbsolute/#/
